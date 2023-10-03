@@ -6,4 +6,4 @@ The Simon Game is a classic memory game where players have to guess a series of 
 
 ## Demo
 
-Play [Simon-Game]()
+Play [Simon-Game](https://rahulyadav147.github.io/Simon-Game/)
